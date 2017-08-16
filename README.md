@@ -33,4 +33,6 @@ Working with Queues
 Additional Resources 
 - [.net Core and Electron](https://scotch.io/@rui/how-to-build-a-cross-platform-desktop-application-with-electron-and-net-core)
 
+Packages used
+- [Working with Yaml Files - Nuget Package](https://www.nuget.org/packages/YamlDotNet/)
 
