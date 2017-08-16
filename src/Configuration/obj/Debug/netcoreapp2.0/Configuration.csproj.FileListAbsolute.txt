@@ -1,0 +1,9 @@
+C:\Users\Patric\Source\Repos\iothubnetcore\Iothubnetcore\Configuration\bin\Debug\netcoreapp2.0\Configuration.deps.json
+C:\Users\Patric\Source\Repos\iothubnetcore\Iothubnetcore\Configuration\bin\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Patric\Source\Repos\iothubnetcore\Iothubnetcore\Configuration\obj\Debug\netcoreapp2.0\Configuration.csprojResolveAssemblyReference.cache
+C:\Users\Patric\Source\Repos\iothubnetcore\Iothubnetcore\Configuration\obj\Debug\netcoreapp2.0\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Patric\Source\Repos\iothubnetcore\Iothubnetcore\Configuration\obj\Debug\netcoreapp2.0\Configuration.AssemblyInfoInputs.cache
+C:\Users\Patric\Source\Repos\iothubnetcore\Iothubnetcore\Configuration\obj\Debug\netcoreapp2.0\Configuration.AssemblyInfo.cs
+C:\Users\Patric\Source\Repos\iothubnetcore\Iothubnetcore\Configuration\bin\Debug\netcoreapp2.0\Configuration.pdb
+C:\Users\Patric\Source\Repos\iothubnetcore\Iothubnetcore\Configuration\obj\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Patric\Source\Repos\iothubnetcore\Iothubnetcore\Configuration\obj\Debug\netcoreapp2.0\Configuration.pdb
