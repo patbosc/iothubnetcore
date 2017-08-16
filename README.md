@@ -30,3 +30,7 @@ Service Bus scenarios
 Working with Queues 
 
 
+Additional Resources 
+- [.net Core and Electron](https://scotch.io/@rui/how-to-build-a-cross-platform-desktop-application-with-electron-and-net-core)
+
+
